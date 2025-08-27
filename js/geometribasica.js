@@ -1,4 +1,4 @@
-import * as THREE from 'three';
+import * as THREE from "https://esm.sh/three@0.179.0";
 
 var containerThree = document.getElementById('three');
 
